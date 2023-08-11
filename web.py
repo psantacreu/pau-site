@@ -19,7 +19,7 @@ st.markdown(css, unsafe_allow_html=True)
 
 # ---- Page content ----
 with st.container():
-    st.subheader("hey I'm Pau Santacreu :wave:")
+    st.subheader("Hey I'm Pau Santacreu :wave:")
     st.write("##")
     st.write("Startups at [Vermú](https://vermu.com) & International Bussiness Economics student at [UPF](https://upf.edu)")
     st.write("you can email me at pau@vermu.io")
