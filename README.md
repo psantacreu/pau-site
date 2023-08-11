@@ -1,2 +1,2 @@
 # pau-site
-personal website build using python
+personal website i build using python
