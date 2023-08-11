@@ -1,6 +1,28 @@
 
-.container {
-    font-family: consolas;
-    background-color: #fbfaf6;
-    text-align: center;
+body {
+  font-family: 'Consolas', consolas;
+}
+
+body {
+  background-color: #fbfaf6;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+h2 {
+  font-size: 24px; 
+}
+
+p {
+  font-size: 16px;
+}
+
+a {
+  color: #f5451f; 
 }
