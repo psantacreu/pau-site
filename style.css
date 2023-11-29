@@ -35,6 +35,11 @@ p {
 }
 
 a {
-  color: #f5451f;
   text-decoration: none;
+  color: #f5451f;
+}
+
+div a {
+  text-decoration: none;
+  color: #f5451f;
 }
