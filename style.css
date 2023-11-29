@@ -14,16 +14,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-}
-
-div {
-    width: 50%; 
-    margin: 0 auto; 
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    padding: 20px; 
+  width: 50%;
 }
 
 h2 {
@@ -35,11 +26,6 @@ p {
 }
 
 a {
-  text-decoration: none;
-  color: #f5451f;
-}
-
-div a {
   text-decoration: none;
   color: #f5451f;
 }
