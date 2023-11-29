@@ -16,15 +16,10 @@ body {
   height: 100vh;
 }
 
-div:first-of-type {
-    width: 60%; 
+div {
+    width: 50%; 
     margin: 0 auto; 
-    padding: 20px;
-}
-
-div:last-of-type {
-    width: 60%; 
-    margin: 0 auto; 
+    align-items: center;
     padding: 20px; 
 }
 
@@ -37,5 +32,6 @@ p {
 }
 
 a {
-  color: #f5451f; 
+  color: #f5451f;
+  text-decoration: none;
 }
