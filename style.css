@@ -1,8 +1,3 @@
-* {
-    margin: 500px;
-    padding: 500px;
-    box-sizing: border-box;
-}
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 body {
@@ -14,7 +9,6 @@ body {
   justify-content: center;
   height: 100vh;
   width: 10%;
-  left-margin: 500px;
 }
 
 h2 {
