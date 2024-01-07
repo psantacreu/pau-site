@@ -1,2 +1,2 @@
 # pau-site
-personal website i tried to build in python. then i regret it
+my personal website. If you need anything just send me an email: p@vermu.com
