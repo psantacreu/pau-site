@@ -60,11 +60,17 @@ p {
   margin-top: 20px;
 }
 
+.media a {
+  padding: 0.5rem;
+  border-radius: 10px;
+  font-size: 14px;
+}
+
 img {
   width: 40px;
   height: auto;
 }
 
 img:hover {
-  transform: scale(1.1);
+  transform: scale(1.05);
 }
