@@ -45,7 +45,7 @@ a {
 }
 
 a:hover {
-  transform: scale(1.1);
+  transform: scale(1.05);
 }
 
 p {
@@ -61,7 +61,7 @@ p {
 }
 
 .media a {
-  padding: 0.55rem;
+  padding: 0.5rem;
   border-radius: 10px;
   font-size: 14px;
 }
